@@ -1,0 +1,13 @@
+# Flutter 生成物
+.dart_tool/
+.packages
+build/
+pubspec.lock
+
+# 工作流里临时生成
+android/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
